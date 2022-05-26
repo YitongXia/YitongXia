@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YitongXia
-- 👀 I’m interested in Geomatics, point cloud and 3D modelling!
+- 👀 I enjoy exploring the intersection of computer science and GIS, I'm interested in computer vision, 3D modelling and computational geometry.
 - 🌱 I’m currently learning Msc in Geomatics for the built environment at TU Delft, Netherlands.
 
 <!---
